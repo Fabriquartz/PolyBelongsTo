@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = ">= 1.9.3"
 
-  s.add_dependency "rails", [">= 3.1", "< 6"]
+  s.add_dependency "rails", [">= 3.1", "< 7"]
 
   s.add_development_dependency "sqlite3", "~> 1.3"
   s.add_development_dependency "minitest-rails", [">= 0.9", "< 3"]
